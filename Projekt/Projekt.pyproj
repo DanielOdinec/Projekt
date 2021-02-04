@@ -24,16 +24,24 @@
     <Compile Include="Projekt.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="13+Land+Cruiser.png" />
     <Content Include="Audi RS6.png" />
     <Content Include="BMW x5 char.PNG" />
     <Content Include="BMW x5.png" />
+    <Content Include="c63 char.PNG" />
+    <Content Include="c63 Karolina.png" />
     <Content Include="e63 char.PNG" />
     <Content Include="F-type char.PNG" />
     <Content Include="Jaguar ftype.png" />
     <Content Include="MB e63.png" />
     <Content Include="MB s63.png" />
+    <Content Include="Mustang char.PNG" />
+    <Content Include="Mustang.png" />
     <Content Include="RS6 character.PNG" />
     <Content Include="s63 char.PNG" />
+    <Content Include="Sky  char.PNG" />
+    <Content Include="Sky.png" />
+    <Content Include="Toyota LC char.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
