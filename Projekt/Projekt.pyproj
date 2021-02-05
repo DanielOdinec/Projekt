@@ -25,23 +25,55 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="13+Land+Cruiser.png" />
+    <Content Include="Audi R8 char.PNG" />
+    <Content Include="Audi R88.png" />
+    <Content Include="Audi RS 5.png" />
     <Content Include="Audi RS6.png" />
+    <Content Include="Audi RS7.png" />
+    <Content Include="Audi S5 char.PNG" />
+    <Content Include="Audi TT RS.PNG" />
+    <Content Include="Audi TTRS.png" />
+    <Content Include="aventador SVJ char.PNG" />
+    <Content Include="aventador SVJ.png" />
+    <Content Include="bmw e46 char.PNG" />
+    <Content Include="bmw m2.png" />
+    <Content Include="Bmw m4.png" />
     <Content Include="BMW x5 char.PNG" />
     <Content Include="BMW x5.png" />
+    <Content Include="Buggati veyron char.PNG" />
+    <Content Include="buggati veyron.png" />
     <Content Include="c63 char.PNG" />
     <Content Include="c63 Karolina.png" />
+    <Content Include="Carrera GT char.PNG" />
+    <Content Include="Carrera GT.png" />
+    <Content Include="e36 char.PNG" />
     <Content Include="e63 char.PNG" />
     <Content Include="F-type char.PNG" />
+    <Content Include="Ferra png.PNG" />
+    <Content Include="Ferra.png" />
+    <Content Include="Galardo char.PNG" />
+    <Content Include="Gallardo.png" />
+    <Content Include="icon ph.png" />
+    <Content Include="icon.png" />
     <Content Include="Jaguar ftype.png" />
+    <Content Include="m3 e366.png" />
+    <Content Include="m3 e46.png" />
+    <Content Include="M4 char.PNG" />
     <Content Include="MB e63.png" />
     <Content Include="MB s63.png" />
+    <Content Include="MB w124 char.PNG" />
+    <Content Include="MB w124.png" />
+    <Content Include="MB w140 char.PNG" />
     <Content Include="Mustang char.PNG" />
     <Content Include="Mustang.png" />
     <Content Include="RS6 character.PNG" />
+    <Content Include="RS7 char.PNG" />
     <Content Include="s63 char.PNG" />
     <Content Include="Sky  char.PNG" />
     <Content Include="Sky.png" />
     <Content Include="Toyota LC char.PNG" />
+    <Content Include="W140 MB.png" />
+    <Content Include="машина.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
