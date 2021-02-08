@@ -73,7 +73,6 @@
     <Content Include="Sky.png" />
     <Content Include="Toyota LC char.PNG" />
     <Content Include="W140 MB.png" />
-    <Content Include="машина.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
