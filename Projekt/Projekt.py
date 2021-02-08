@@ -8,6 +8,9 @@ root=Tk()
 root.geometry("1000x600")
 root.title("Cars and characteristics")
 
+
+root.iconbitmap(default="car_icon4979.ico")
+
 def funktion(a):
     tabs.select(a)
 
@@ -28,10 +31,7 @@ def char_image(name):
 
 
 tabs=ttk.Notebook(root)
-texts=["Esimene","Teine","Kolmas","Neljas","Viies","Kuues","Seitsmes","Kaheksas"]
-#or i in range(8):
-  # tab=Frame(tabs)
-   #tabs.add(tab,text=texts[i])
+
 
 tab1=Frame(tabs)
 tab2=Frame(tabs)
@@ -46,7 +46,7 @@ root.config(menu=M)
 m1=Menu(M,tearoff=1)
 M.add_cascade(label="Tabs",menu=m1)
 m1.add_command(label="Tab1",accelerator="Command+V",command=lambda:funktion(0))
-m1.add_command(label="Tab2",command=lambda:funktion(1))
+
 
 m2=Menu(M,tearoff=0)
 M.add_cascade(label="Mercedes",menu=m2)
